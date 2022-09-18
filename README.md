@@ -1,3 +1,5 @@
+[https://www.codurance.com/katalyst/password-validation](https://www.codurance.com/katalyst/password-validation)
+
 # Iteration 1 - Basic password validation
 ## Goal
 Design and implement a software that validates a password applying TDD.
